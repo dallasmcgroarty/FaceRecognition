@@ -1,3 +1,12 @@
+# Face Recognition App
+Sign in / Register to enter web page (currently not implemented)
+
+In the input space enter a url to an image, click enter
+
+Uing Clarifai API, the web app will display the image and a box around the face in the image
+
+Will only find one face per image
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
