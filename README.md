@@ -7,6 +7,8 @@ Uing Clarifai API, the web app will display the image and a box around the face 
 
 Will only find one face per image
 
+website -> https://dallasmcgroarty.github.io/FaceRecognition/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
