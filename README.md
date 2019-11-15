@@ -19,6 +19,9 @@ Some other libraries are used as well to communicate with the database.
 
 The files for that are in this repo -> https://github.com/dallasmcgroarty/smartBrainAPI
 
+## Front-End
+The front-end was created using React.
+
 ## Database
 PostreSQL is used for the database.
 
