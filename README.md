@@ -1,11 +1,31 @@
 # Face Recognition App
-Sign in / Register to enter web page (currently not implemented)
+Created using React, Express, Node.js and PostgreSQL
 
-In the input space enter a url to an image, click enter
+## How to use the app
+Register/Sign in to enter web page.
 
-Uing Clarifai API, the web app will display the image and a box around the face in the image
+In the input space next to the detect button enter a url to an image, then click detect.
 
-Will only find one face per image
+Uing Clarifai API, the web app will display the image and a box around the face in the image.
+
+The app will update your total entries (number of times you've detected a face on an image).
+
+The app will only find one face per image.
+
+## Back-end
+The back-end server was created using node.js and express.js. 
+
+Some other libraries are used as well to communicate with the database.
+
+The files for that are in this repo -> https://github.com/dallasmcgroarty/smartBrainAPI
+
+## Database
+PostreSQL is used for the database.
+
+## Deployment
+The back-end and server are both deployed on heroku.
+
+The front-end is deployed on github pages.
 
 website -> https://dallasmcgroarty.github.io/FaceRecognition/
 
